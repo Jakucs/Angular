@@ -1,0 +1,5 @@
+csillagokszáma, kép betöltése adatbázisból?
+Többnyelvűsítés az adatbázisból betöltött elemekre... ?
+Felhasználónak a kosara és kedvencei. <--- Ezt egy oldalon betölteni dinamikusan
+automatikus kijelentkeztetés
+email regisztráció megerősítésére?
